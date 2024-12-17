@@ -1,0 +1,49 @@
+_repo: That-worlds-may-live_74767
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fuqua, Robert
+    aliases:
+    - Tillotson, Joseph Wirt
+    - Tillotson, Joe W.
+    birthdate: 1905
+    deathdate: 1959
+    gutenberg_agent_id: '34611'
+    url: http://www.gutenberg.org/2009/agents/34611
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2024-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74767'
+language: en
+pgterms:marc905: 20240521025556bond
+pgterms:marc906: '1943'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1943.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Armageddon -- Fiction'
+- !lcsh 'Outer space -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: That worlds may live
+url: http://www.gutenberg.org/ebooks/74767
